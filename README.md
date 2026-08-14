@@ -406,7 +406,7 @@ FINGUARD-Financial-Crime-Network-Detection/
 ├── .gitkeep
 ├── requirements.txt
 ├── README.md
-└── streamlit dashboard.py
+└── streamlit_dashboard.py
 ```
 
 ---
@@ -441,12 +441,12 @@ If you are using a virtual environment, activate it before installing the depend
 
 The dashboard file in the repository is currently named:
 
-`streamlit dashboard.py`
+`streamlit_dashboard.py`
 
 Run the dashboard using:
 
 ```bash
-streamlit run "streamlit dashboard.py"
+streamlit run "streamlit_dashboard.py"
 ```
 
 The Streamlit application will open in your web browser.
