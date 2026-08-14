@@ -416,7 +416,7 @@ FINGUARD-Financial-Crime-Network-Detection/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FINGUARD-Financial-Crime-Network-Detection.git
+git clone https://github.com/samathap2203/FINGUARD-Financial-Crime-Network-Detection.git
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.
